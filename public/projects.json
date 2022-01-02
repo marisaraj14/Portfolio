@@ -1,22 +1,26 @@
 [
     {
         "imgUrl": "https://i.pinimg.com/originals/c4/d5/11/c4d511fb3eb18fb56bdde574e540885b.jpg",
-        "title": "POS WEBAPP"
+        "title": "POS WEBAPP",
+        "popUpImg":"images/POS.png",
+        "codeUrl":"https://github.com/marisaraj14/83-Degree-Cafe"
     },
     {
         "imgUrl":"https://t4.ftcdn.net/jpg/03/79/32/35/360_F_379323548_0ZOvyj8JTpTsRxA8CY4tvlAxI8imEE95.jpg",
-        "title":"QUIZZING APP"
+        "title":"QUIZZING APP",
+        "popUpImg":"images/quizApplication.png",
+        "codeUrl":"https://github.com/marisaraj14/quiz_project"
     },
     {
         "imgUrl":"https://static.vecteezy.com/system/resources/previews/003/593/537/non_2x/single-continuous-line-drawing-of-retro-old-classic-portable-music-turntable-vinyl-disc-jockey-vintage-analog-audio-player-item-concept-one-line-draw-design-illustration-graphic-vector.jpg",
-        "title":"MUSIC PLAYER"
+        "title":"MUSIC PLAYER",
+        "popUpImg":"images/musicPlayer.png",
+        "codeUrl":"https://github.com/marisaraj14/musicPlayer"
     },
     {
         "imgUrl":"https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-one-line-drawing-of-a-teacher-or-student-drawing-on-the-png-image_316306.jpg",
-        "title":"TUTOR BOOKING"
-    },
-    {
-        "imgUrl":"https://i.pinimg.com/originals/1e/ca/82/1eca82fe3024f777a2b1b6d746cc17e5.jpg",
-        "title":"LIBRARY MANAGEMENT"
+        "title":"TUTOR BOOKING",
+        "popUpImg":"images/tutor.png",
+        "codeUrl":"https://github.com/marisaraj14/Tanar"
     }
 ]
