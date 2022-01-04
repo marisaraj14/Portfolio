@@ -22,13 +22,13 @@ function App() {
       <section>
         <ul className="font-source-code text-xl flex p-6 justify-center gap-6">
           <li><a href="#projects">Projects</a></li>
-          <li><a href="https://drive.google.com/file/d/1-iFPv0e6ZBKlDrS80W4ybbpUifiSQsNS/view?usp=sharing" target="_blank" >Resume</a></li>
+          <li><a href="https://drive.google.com/file/d/1-iFPv0e6ZBKlDrS80W4ybbpUifiSQsNS/view?usp=sharing" target="_blank"  rel="noreferrer">Resume</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </section>
       <section className="mt-10 mx-40 p-28 bg-repeat flex justify-center flex-col" style={{ backgroundImage: `url(https://www.kindpng.com/picc/m/38-382638_transparent-polka-dot-background-png-transparent-square-dots.png)`, backgroundSize: `400px 400px` }}>
         <p className="text-8xl font-bold  tracking-widest text-center">marisa raj.</p>
-        <p className="text-2xl pt-4 text-gray-500 italic text-center">a cuckoo for design.</p>
+        <p className="text-2xl pt-4 text-gray-500 italic text-center">Bringing artistic conceptions to life with code.</p>
       </section>
       <section className="mt-20 pt-2 pb-1 w-screen bg-gradient-to-b from-gray-300 white ">
         <ul className="flex gap-52 justify-center text-center">
@@ -45,7 +45,7 @@ function App() {
             <p className="text-xs">2018 - 2021</p>
           </li>
           <li>
-            <img className="w-8 block m-auto" src="https://www.freeiconspng.com/uploads/backpack-school-bag-icon-14.png" />
+            <img className="w-8 block m-auto" src="https://www.freeiconspng.com/uploads/backpack-school-bag-icon-14.png" alt="school backpack"/>
             <p className="pt-2 font-bold">HIGH SCHOOL</p>
             <p className="text-sm">SBOA School & Jr Collge</p>
             <p className="text-xs">2016-2018</p>
